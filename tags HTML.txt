@@ -1,0 +1,14 @@
+<h1> ate <h6>                      <ul>
+                                    -  <li>
+<p>                                
+<a>                                <ol>
+- href                              -  <li>
+_ target                            
+                                   <stronger> e <b>
+<br> e <hr>                        <em> e <i>
+
+PARA COLOCAR IMAGENS LINKS E SCRIPTS
+
+<a>          <link>        <img>          <script>
+-href        -href         -src           -src
+-title       -rel          -alt
