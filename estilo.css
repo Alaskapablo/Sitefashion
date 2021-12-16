@@ -1,0 +1,191 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+ }
+
+ #principal{
+     width: 1024px;
+     margin: 20px auto;
+     
+
+ }
+
+ .top{
+     height: 50px;
+     background-color: #162028;
+     position: relative;
+     
+
+ }
+
+ .logotipo{
+     margin: 5px 0px 0px 110px;
+ }
+
+ .header-nav{
+     position: absolute;
+     top: 0%;
+     right: 0%;
+     height: 100%;
+ }
+ .header-nav ul{
+     margin: 0%;
+     padding: 0%;
+ }
+ .header-nav li{
+     list-style: none;
+     display: inline-block;
+     margin: 0px 15px 0px 0px;
+     padding: 13px;
+ }
+.header-nav a{
+    color: #425644;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 5px;
+    transition: color 0.3s linear;
+}
+
+.header-nav a:hover{
+    color: white;
+}
+
+.portfolio{
+    padding: 50px  100px ;
+    text-align: center;
+    text-transform: inherit;
+}
+
+.portfolio h1{
+    font-size: 36px;
+    color: #252525;
+    
+    
+}
+.portfolio p{
+    font-size: 16px;
+    line-height: 2;
+    color: #555;
+    
+}
+
+
+.gallery{
+    color: #555;
+   
+    display: flex;
+    justify-content: center;
+
+}
+.gallery-text{
+    color: #444;
+    letter-spacing: 4px;
+    font-size: 16px;
+    
+}
+
+.gallery-title{
+    color: #444;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    text-shadow: 2px 2px rgb(156, 153, 153);
+     
+}
+    
+.img1{
+    padding-right: 15px;
+    
+
+}
+
+.img2{
+   padding-right: 15px;
+
+}
+
+
+
+.img3{
+   padding-right: 15px;
+   
+}
+
+.box-img{
+    margin-top: 50px;
+    height: 90%;
+    width: 5%;
+    display: inline-block;  
+    border-radius: 35px 50px 0px 55px ;
+    box-shadow: 2px 0px 12px 12px rgb(236, 236, 236);
+    background-size: cover, auto;
+   
+    
+}
+.box-img:hover{
+    border-radius: 15px 20px 10px 25px;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: cubic-bezier(0.67,-0.38, .5, 1.5);
+}
+.item{
+    height: 180px;
+    display: inline-block;
+   
+
+     
+}
+
+
+.about{
+    margin-top: 5px;
+    background-color: #003d52;
+    padding: 50px;
+    color:white;
+    background-image: url(../imagens/bg_detalhe.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.about h2{
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: 70%;
+    line-height: 1.5;
+    
+
+}
+.about p{
+    line-height: 1.5;
+    width: 70%;
+    text-decoration: solid;
+    text-transform: uppercase;
+    text-align: start;
+    overflow: scroll;
+    
+}
+
+#contact address{
+    color: #143f52;
+    text-transform: uppercase;
+    font-size: 26px;
+    font-style: normal;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.rodape{
+    background: #0b171f;
+    padding: 25px;
+    font-size: 12px;
+    color: #6f8597;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+
+
